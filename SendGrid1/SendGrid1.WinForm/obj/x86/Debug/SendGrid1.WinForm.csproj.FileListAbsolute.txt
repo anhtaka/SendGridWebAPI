@@ -1,9 +1,0 @@
-d:\users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\obj\x86\Debug\SendGrid1.WinForm.Form1.resources
-d:\users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\obj\x86\Debug\SendGrid1.WinForm.Properties.Resources.resources
-d:\users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\obj\x86\Debug\SendGrid1.WinForm.csproj.GenerateResource.Cache
-d:\users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\bin\Debug\SendGrid1.WinForm.exe
-d:\users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\bin\Debug\SendGrid1.WinForm.pdb
-d:\users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\obj\x86\Debug\SendGrid1.WinForm.exe
-d:\users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\obj\x86\Debug\SendGrid1.WinForm.pdb
-D:\Users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\obj\x86\Debug\SendGrid1.WinForm.csprojResolveAssemblyReference.cache
-D:\Users\takayanagi.tsuyoshi\documents\visual studio 2010\Projects\SendGrid1\SendGrid1.WinForm\bin\Debug\SendGrid1.WinForm.exe.config
