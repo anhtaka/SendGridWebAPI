@@ -33,11 +33,11 @@ namespace SendGrid1.WinForm
 			string api_key = "your_sendgrid_key";
 
 
-			string toAddress = "takayanagi.tsuyoshi@sojitz-sys.com";
+			string toAddress = "test@test-sys.com";
 			string toName = "To Name";
 			string subject = "A message from SendGrid";
 			string text = "Delivered by your friends at SendGrid.";
-			string fromAddress = "takayanagi.tsuyoshi@sojitz-sys.com";
+			string fromAddress = "test@test-sys.com";
 
 			string url = "https://api.sendgrid.com/api/mail.send.json";
 			string result = string.Empty;
